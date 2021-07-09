@@ -1,0 +1,7 @@
+name: GMUE-498-Remove-Playground-Ressources
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A minimal Google Cloud Python Pulumi program
+config: ./gcp-config
